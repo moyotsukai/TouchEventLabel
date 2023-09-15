@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB0D937829926392005425F2 /* InputAccessoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0D937729926392005425F2 /* InputAccessoryView.swift */; };
+		EB0D937A299263A3005425F2 /* InputAccessoryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EB0D9379299263A3005425F2 /* InputAccessoryView.xib */; };
 		EB9C65592935D8C800CF5FED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9C65582935D8C800CF5FED /* AppDelegate.swift */; };
 		EB9C655B2935D8C800CF5FED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9C655A2935D8C800CF5FED /* SceneDelegate.swift */; };
 		EB9C655D2935D8C800CF5FED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9C655C2935D8C800CF5FED /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB0D937729926392005425F2 /* InputAccessoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputAccessoryView.swift; sourceTree = "<group>"; };
+		EB0D9379299263A3005425F2 /* InputAccessoryView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InputAccessoryView.xib; sourceTree = "<group>"; };
 		EB9C65552935D8C800CF5FED /* TouchEventLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TouchEventLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB9C65582935D8C800CF5FED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB9C655A2935D8C800CF5FED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				EB9C655A2935D8C800CF5FED /* SceneDelegate.swift */,
 				EB9C655C2935D8C800CF5FED /* ViewController.swift */,
 				EB9C655E2935D8C800CF5FED /* Main.storyboard */,
+				EB0D937729926392005425F2 /* InputAccessoryView.swift */,
+				EB0D9379299263A3005425F2 /* InputAccessoryView.xib */,
 				EB9C65612935D8CB00CF5FED /* Assets.xcassets */,
 				EB9C65632935D8CB00CF5FED /* LaunchScreen.storyboard */,
 				EB9C65662935D8CB00CF5FED /* Info.plist */,
@@ -127,6 +133,7 @@
 			files = (
 				EB9C65652935D8CB00CF5FED /* LaunchScreen.storyboard in Resources */,
 				EB9C65622935D8CB00CF5FED /* Assets.xcassets in Resources */,
+				EB0D937A299263A3005425F2 /* InputAccessoryView.xib in Resources */,
 				EB9C65602935D8C800CF5FED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +147,7 @@
 			files = (
 				EB9C655D2935D8C800CF5FED /* ViewController.swift in Sources */,
 				EB9C65592935D8C800CF5FED /* AppDelegate.swift in Sources */,
+				EB0D937829926392005425F2 /* InputAccessoryView.swift in Sources */,
 				EB9C655B2935D8C800CF5FED /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
